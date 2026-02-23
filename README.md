@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## About Me
-- Currently learning about **DevOps, Cloud Computing & Scalable Backend Systems**
+- Learning about **DevOps, Cloud Computing & Scalable Backend Systems**
 - Interested in anything related to tech, engineering, or how things work
 - Currently working with Node.js, Springboot, Docker, AWS, & more
 ---
