@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,redis" />
 </p>
 
-### **DevOps**
+### **DevOps & Cloud**
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,nginx" />
 </p>
