@@ -40,7 +40,7 @@
 
 ## 🔗 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/aungyethanthein/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
